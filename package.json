@@ -1,0 +1,9 @@
+{
+  "name": "fuck.js",
+  "version": "1.0.0",
+  "description": "A library that censors out all swear words",
+  "main": "index.js",
+  "repository": "https://github.com/gerd2002/fuck.js",
+  "author": "Gerd <gerd@disroot.org>",
+  "license": "MIT"
+}
