@@ -6,5 +6,5 @@ Usage:
 ```js
 const fuck = require('fuck.js')
 
-fuck.clean('complete f*ck') // returns 'complete BLEEEEEP'
+fuck.clean('shut up you fuck') // returns 'shut up you BLEEEEEP'
 ```
